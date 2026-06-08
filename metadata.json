@@ -1,0 +1,6 @@
+{
+  "name": "betPawa",
+  "description": "Une application de paris sportifs complète inspirée de betPawa avec cotes en direct, panier de paris multiples avec bonus de gain, simulation de résultats et gestion de portefeuille virtuel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
